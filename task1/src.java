@@ -7,6 +7,8 @@ class Main {
     public static void main(String[] args) {
         // code
         int a = example();
-        System.out.println(a);
+        System.out.println("Nikolaaaa");
+
+
     }
 }
